@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "id": "writer-starters",
+  "name": "Writer starters",
+  "version": "1.0.0",
+  "kind": "writer-templates",
+  "host_api": 1,
+  "platform": "any",
+  "dependencies": [{ "id": "writer-text", "requirement": "^0.1.0" }],
+  "templates": [
+    { "id": "meeting-notes", "title": "Meeting notes", "description": "Keep decisions and next steps together.", "content": "Meeting notes\n\nDate: \nPeople: \n\nDiscussion\n\n\nDecisions\n\n\nNext steps\n- \n" },
+    { "id": "project-brief", "title": "Project brief", "description": "Give a new idea a clear starting point.", "content": "Project brief\n\nWhat are we making?\n\n\nWho is it for?\n\n\nWhat does success look like?\n\n\nScope\n\n\nMilestones\n- \n\nOpen questions\n- \n" },
+    { "id": "daily-plan", "title": "Daily plan", "description": "Make room for the work that matters.", "content": "Daily plan\n\nDate: \n\nToday's focus\n\n\nTasks\n[ ] \n[ ] \n[ ] \n\nNotes\n\n\nEnd-of-day reflection\n\n" }
+  ]
+}

@@ -1,0 +1,8 @@
+node_modules/
+dist/
+target/
+references/
+.runtime/
+.impeccable/review/
+*.log
+apps/launcher/src-tauri/gen/

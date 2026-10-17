@@ -1,0 +1,7 @@
+{
+  "$schema": "../gen/schemas/desktop-schema.json",
+  "identifier": "main-window",
+  "description": "Local launcher window and user-initiated save dialog.",
+  "windows": ["main"],
+  "permissions": ["core:default", "core:window:allow-close"]
+}
