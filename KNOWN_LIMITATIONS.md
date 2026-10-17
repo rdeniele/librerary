@@ -9,6 +9,6 @@
 - Module catalog identifiers are duplicated in TypeScript and Rust.
 - No office/PDF/media/audio engine integration, plugin support or cross-app document model exists.
 - No complete startup/memory/audio baseline, completed security audit, complete transitive license audit or overall project license selection exists. A preliminary debug parent-process snapshot does not establish the full process-tree target.
-- REA execution remains pending; WPS shell observation has begun, but editor workflow probes remain pending.
+- Bounded REA metadata inspection and a basic WPS Writer Unicode round trip passed; richer Writer and Sheets/Slides/PDF research remain pending.
 
 See [test plan](TEST_PLAN.md) for pending verification and [roadmap](ROADMAP.md) for the next milestones.

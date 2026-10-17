@@ -25,3 +25,6 @@ Status: adopted for the first working increment.
 - Offline package V1 is data-only Writer templates, trusted by exact build-pinned SHA-256; executable modules/signing/updater remain future work.
 - Coalesce pending saves and hold an OS workspace lock to protect data.
 - User explicitly authorized main push, still pending. Latest steering prioritizes REA/WPS research and defers further app development.
+
+## 2026-10-17 — Research continuation
+User authorized resumption after gaming interrupted input. Use the working portable REA CLI for metadata; defer optional client configuration repair because it is unnecessary for this scope. Main foundation published as 74d3dce. Further feature development remains deferred for WPS workflow probes.

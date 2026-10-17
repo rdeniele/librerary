@@ -22,3 +22,5 @@ Read this file and [STATE.md](STATE.md) at task start. Read other notes only as 
 - **Unknown:** not inspected or not tested.
 
 Keep current state short and replace obsolete statements. Preserve useful history in LOG and decisions in DECISIONS. For substantial modules, create a focused note with source links, interfaces, limitations, and reproducible checks. Avoid loading the whole knowledge base each turn.
+
+WPS research: [REA Evidence](../docs/research/REA_WPS_READINESS.md), [workflow probes](../docs/research/WPS_WORKFLOWS.md).

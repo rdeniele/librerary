@@ -30,3 +30,6 @@
 
 ## 2026-10-17 — resumed checkpoint
 User clarified Escape was gaming and authorized resumption. Reconciled engineering documentation with implemented packages, save queue, lock, typography/branding and 31 recorded tests. REA availability investigation resumed; publication pending. No new application behavior changed.
+
+## 2026-10-17 — published foundation and first WPS probe
+Pushed 74d3dce to origin/main. REA 6.5.0 inventoried four WPS PE resource trees with complete bounded coverage and retained Evidence. Synthetic Writer Unicode create/save/close/reopen passed; exact text independently verified in DOCX XML. No private documents opened. Sheets/Slides/PDF and richer Writer probes remain pending.
